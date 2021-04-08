@@ -1,0 +1,1 @@
+hitmanbot: python -m hitmanbot

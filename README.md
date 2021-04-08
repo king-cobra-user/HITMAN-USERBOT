@@ -2,7 +2,7 @@
 
 
 
-# <p align="left"><a href=""><img src="https://github-readme-stats.vercel.app/api/pin?username=Kimg-cobra-user&show_icons=true&theme=dark&hide_border=true&repo=Hitmanbot"></a></p><p align="centre"><a href="https://t.me/HITUSERBOT"> <img src="https://img.shields.io/badge/telegram-Support_Group-blue?style=social&logo=telegram" alt="Support" /></a><a href="/stargazers"><img src="https://img.shields.io/github/stars/xditya/TeleBot?style=social"></a><a href="https://github.com/king-cobra-user/HITMAN-USERBOT/fork"><img src="https://img.shields.io/github/forks/King-cobra-user/HITMAN-USERBOT?label=Fork&logoColor=blue&style=social"></a>	<a href="https://github.com/king-cobra-user/HITMAN-USERBOT"><img src="https://img.shields.io/github/last-commit/King-cobra-user/Hitmanbot?style=flat-square"></a></p>
+# <p align="left"><a href=""><img src="https://github-readme-stats.vercel.app/api/pin?username=King-cobra-user&show_icons=true&theme=dark&hide_border=true&repo=Hitmanbot"></a></p><p align="centre"><a href="https://t.me/HITUSERBOT"> <img src="https://img.shields.io/badge/telegram-Support_Group-blue?style=social&logo=telegram" alt="Support" /></a><a href="/stargazers"><img src="https://img.shields.io/github/stars/xditya/TeleBot?style=social"></a><a href="https://github.com/king-cobra-user/HITMAN-USERBOT/fork"><img src="https://img.shields.io/github/forks/King-cobra-user/HITMAN-USERBOT?label=Fork&logoColor=blue&style=social"></a>	<a href="https://github.com/king-cobra-user/HITMAN-USERBOT"><img src="https://img.shields.io/github/last-commit/King-cobra-user/Hitmanbot?style=flat-square"></a></p>
     
 ## Video Tutorial on deploying
 
